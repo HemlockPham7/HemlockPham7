@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 🙋‍♂️ About me:
 
-- 👀 I’m interested in DSA, software engineering, web development, and machine learning.
+- 👀 I’m interested in DSA, software engineering, web development.
 
 - 💞️ I’m looking to collaborate on interesting & informative programming projects.
 
