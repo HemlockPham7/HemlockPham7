@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viet-Hoang Pham</h1>
 <h4 align="left">Software Developer graduated from HCMUS with 1.5+ years of hands-on experience crafting reliable and scalable Backend services, implementing DevOps practices and CI/CD pipelines, and building modern web applications.</h4>
+<img align="right" width="400" src="https://github.com/HemlockPham7/HemlockPham7/blob/main/coding.gif?raw=true">
 
 ## 📊 GitHub Stats
 
